@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task01</string>
+    <string-array name="SelectCity">
+        <item>Select City</item>
+        <item>Rawalpindi</item>
+        <item>Islamabad</item>
+        <item>Lahore</item>
+        <item>Sialkot</item>
+        <item> Karachi</item>
+    </string-array>
+</resources>
